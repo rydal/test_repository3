@@ -1,0 +1,6 @@
+device_ids="0BDA:C811"
+tuxconfig_module="8821cu"
+dependencies="firefox"
+test_program="gnome-control-center wifi &"
+test_message="Can you see wifi adapters / networks?"
+restart_needed="no"
